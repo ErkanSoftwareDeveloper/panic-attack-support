@@ -1,11 +1,11 @@
-# 🧘 Panic Attack Support App
+#  Panic Attack Support App
 
 A **desktop application for managing panic attacks**, built with **Python**, **Tkinter**, and **MySQL**.
 This app helps users calm down with **breathing animations**, **relaxing sounds**, and **motivational messages**, while also allowing logging of panic events.
 
 ---
 
-## ✨ Features
+##  Features
 
 * Start/resume panic support mode with breathing animation
 * Pause panic mode at any time
@@ -18,7 +18,7 @@ This app helps users calm down with **breathing animations**, **relaxing sounds*
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python 3**
 * **Tkinter** – GUI framework
@@ -29,7 +29,7 @@ This app helps users calm down with **breathing animations**, **relaxing sounds*
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Clone the repository:
 
@@ -64,7 +64,7 @@ Place a relaxing sound file named `relaxing_sound.wav` in the project folder.
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Run the application:
 
@@ -80,7 +80,7 @@ python panic.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 panic-attack-support/
@@ -94,14 +94,14 @@ panic-attack-support/
 
 ---
 
-## 📸 Video
+##  Video
 
 ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7b5f8d26-cef8-48ec-bd1e-61e307c626be)
 
 
 ---
 
-## 🚀 Possible Improvements
+##  Possible Improvements
 
 * Cross-platform sound playback support
 * Customizable breathing patterns
